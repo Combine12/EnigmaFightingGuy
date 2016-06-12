@@ -1,0 +1,283 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.vmf
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING001A, using default
+material "metal/metalceiling004a" not found.
+Material not found!: METAL/METALCEILING004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop metal for material METAL/METALFLOOR005A, using default
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP002A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop metal for material METAL/METALPIPE006A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE008A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE009A, using default
+material "metal/metalwall042d" not found.
+Material not found!: METAL/METALWALL042D
+material "concrete/concretewall038c" not found.
+Material not found!: CONCRETE/CONCRETEWALL038C
+Can't find surfaceprop metal for material METAL/METALDOOR007A, using default
+material "metal/metalvent008a" not found.
+Material not found!: METAL/METALVENT008A
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP001C, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop glass for material LIGHTS/FLUORESCENTCOOL001A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003B, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE002A, using default
+Can't find surfaceprop slime for material DEV/DEV_SLIME, using default
+Can't find surfaceprop metal for material METAL/METALPIPE005A, using default
+material "props/metalpipeendcap001a" not found.
+Material not found!: PROPS/METALPIPEENDCAP001A
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW020A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_urb01rt" not found.
+Can't load skybox file skybox/sky_urb01 to build the default cubemap!
+Can't load skybox file skybox/sky_urb01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.vmf
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING001A, using default
+material "metal/metalceiling004a" not found.
+Material not found!: METAL/METALCEILING004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop metal for material METAL/METALFLOOR005A, using default
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP002A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop metal for material METAL/METALPIPE006A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE008A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE009A, using default
+material "metal/metalwall042d" not found.
+Material not found!: METAL/METALWALL042D
+material "concrete/concretewall038c" not found.
+Material not found!: CONCRETE/CONCRETEWALL038C
+Can't find surfaceprop metal for material METAL/METALDOOR007A, using default
+material "metal/metalvent008a" not found.
+Material not found!: METAL/METALVENT008A
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP001C, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop glass for material LIGHTS/FLUORESCENTCOOL001A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003B, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE002A, using default
+Can't find surfaceprop slime for material DEV/DEV_SLIME, using default
+Can't find surfaceprop metal for material METAL/METALPIPE005A, using default
+material "props/metalpipeendcap001a" not found.
+Material not found!: PROPS/METALPIPEENDCAP001A
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW020A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_urb01rt" not found.
+Can't load skybox file skybox/sky_urb01 to build the default cubemap!
+Can't load skybox file skybox/sky_urb01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.vmf
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING001A, using default
+material "metal/metalceiling004a" not found.
+Material not found!: METAL/METALCEILING004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop metal for material METAL/METALFLOOR005A, using default
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP002A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop metal for material METAL/METALPIPE006A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE008A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE009A, using default
+material "metal/metalwall042d" not found.
+Material not found!: METAL/METALWALL042D
+material "concrete/concretewall038c" not found.
+Material not found!: CONCRETE/CONCRETEWALL038C
+Can't find surfaceprop metal for material METAL/METALDOOR007A, using default
+material "metal/metalvent008a" not found.
+Material not found!: METAL/METALVENT008A
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP001C, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop glass for material LIGHTS/FLUORESCENTCOOL001A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003B, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE002A, using default
+Can't find surfaceprop slime for material DEV/DEV_SLIME, using default
+Can't find surfaceprop metal for material METAL/METALPIPE005A, using default
+material "props/metalpipeendcap001a" not found.
+Material not found!: PROPS/METALPIPEENDCAP001A
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW020A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.vmf
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETECEILING001A, using default
+material "metal/metalceiling004a" not found.
+Material not found!: METAL/METALCEILING004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop metal for material METAL/METALFLOOR005A, using default
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP002A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop metal for material METAL/METALPIPE006A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE008A, using default
+Can't find surfaceprop metal for material METAL/METALPIPE009A, using default
+material "metal/metalwall042d" not found.
+Material not found!: METAL/METALWALL042D
+material "concrete/concretewall038c" not found.
+Material not found!: CONCRETE/CONCRETEWALL038C
+Can't find surfaceprop metal for material METAL/METALDOOR007A, using default
+material "metal/metalvent008a" not found.
+Material not found!: METAL/METALVENT008A
+Can't find surfaceprop concrete for material COMPOSITE/CITYMAP001C, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop glass for material LIGHTS/FLUORESCENTCOOL001A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003B, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE002A, using default
+Can't find surfaceprop slime for material DEV/DEV_SLIME, using default
+Can't find surfaceprop metal for material METAL/METALPIPE005A, using default
+material "props/metalpipeendcap001a" not found.
+Material not found!: PROPS/METALPIPEENDCAP001A
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW020A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\proto_airexchange001.bsp

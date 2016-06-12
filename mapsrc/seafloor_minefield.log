@@ -1,0 +1,92 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\seafloor_minefield.vmf
+Can't find surfaceprop dirt for material DEV/DEV_MEASUREWALL01D, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREHALL01, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL032A, using default
+material "concrete/concretefloor004a" not found.
+Material not found!: CONCRETE/CONCRETEFLOOR004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop metal for material METAL/METALWALL054B, using default
+material "metal/metalhull007a" not found.
+Material not found!: METAL/METALHULL007A
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL002B, using default
+Can't find surfaceprop metal for material METAL/METALWALL001A, using default
+material "metal/metalwall054f" not found.
+Material not found!: METAL/METALWALL054F
+Can't find surfaceprop metal for material METAL/METALWALL005B, using default
+material "lights/fluorescentwarm001a" not found.
+Material not found!: LIGHTS/FLUORESCENTWARM001A
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL003A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS017A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS008A, using default
+Can't find surfaceprop metalgrate for material METAL/METALGRATE016A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+material "nature/rockwall011a" not found.
+Material not found!: NATURE/ROCKWALL011A
+material "nature/blendrocksgrass003b" not found.
+Material not found!: NATURE/BLENDROCKSGRASS003B
+Can't find surfaceprop dirt for material NATURE/BLENDDIRTGRASS001A, using default
+material "black" not found.
+Material not found!: BLACK
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL064B, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS019A, using default
+Can't find surfaceprop metal for material PROPS/METALPANEL013B, using default
+material "props/metalpanel013a" not found.
+Material not found!: PROPS/METALPANEL013A
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+material "metal/metaldoor017a" not found.
+Material not found!: METAL/METALDOOR017A
+Can't find surfaceprop metal for material METAL/METALDOOR002A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR018A, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE003A, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE001A, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE003D, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+material "props/metallockers001a" not found.
+Material not found!: PROPS/METALLOCKERS001A
+material "decals/decalelevatorbutton003a" not found.
+Material not found!: DECALS/DECALELEVATORBUTTON003A
+Can't find surfaceprop concrete for material CONCRETE/CONCRETESTAIR001A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01B, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 32 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\seafloor_minefield.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_wasteland02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\seafloor_minefield.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\seafloor_minefield.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\seafloor_minefield.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\seafloor_minefield.bsp

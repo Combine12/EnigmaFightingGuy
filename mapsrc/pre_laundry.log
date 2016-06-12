@@ -1,0 +1,221 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.vmf
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01A, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERCEILING003A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR011A, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034B, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01B, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW015A, using default
+Can't find surfaceprop chainlink for material METAL/METALFENCE004A, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop glass for material LIGHTS/WHITE002, using default
+Can't find surfaceprop tile for material TILE/TILEWALL009B, using default
+Can't find surfaceprop metal for material METAL/METALWALL086A, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR012B, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASURECRATE01, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL032C, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL032A, using default
+material "tile/tilefloor007a" not found.
+Material not found!: TILE/TILEFLOOR007A
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034C, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034D, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR012A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSNPCCLIP, using default
+Can't find surfaceprop tile for material TILE/TILESTAIR002A, using default
+Can't find surfaceprop metal for material METAL/METALWALL074A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01C, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREHALL01, using default
+material "props/plasticexitsign001a" not found.
+Material not found!: PROPS/PLASTICEXITSIGN001A
+material "models/props_wasteland/metalfence004a" not found.
+Material not found!: MODELS/PROPS_WASTELAND/METALFENCE004A
+material "tools/toolscontrolclip" not found.
+Material not found!: TOOLS/TOOLSCONTROLCLIP
+Can't find surfaceprop metal for material METAL/METALFLOOR008A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR034A, using default
+material "props/healthcharger001a" not found.
+Material not found!: PROPS/HEALTHCHARGER001A
+Can't find surfaceprop metalvent for material PROPS/METALDUCT003A, using default
+material "lights/fluorescentwarm001a" not found.
+Material not found!: LIGHTS/FLUORESCENTWARM001A
+Can't find surfaceprop concrete for material DEV/DEV_MEASURESWITCH01, using default
+Can't find surfaceprop metal for material DEV/DEV_MEASURESTAIRS01A, using default
+Can't find surfaceprop metal for material DEV/DEV_MEASURERAILS01, using default
+material "props/metalbox001c" not found.
+Material not found!: PROPS/METALBOX001C
+material "props/hevcharger001a" not found.
+Material not found!: PROPS/HEVCHARGER001A
+Can't find surfaceprop metal for material DEV/DEV_MEASURERAILS02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 446 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_depot01rt" not found.
+Can't load skybox file skybox/sky_depot01 to build the default cubemap!
+Can't load skybox file skybox/sky_depot01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.vmf
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01A, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERCEILING003A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR011A, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034B, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01B, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW015A, using default
+Can't find surfaceprop chainlink for material METAL/METALFENCE004A, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop glass for material LIGHTS/WHITE002, using default
+Can't find surfaceprop tile for material TILE/TILEWALL009B, using default
+Can't find surfaceprop metal for material METAL/METALWALL086A, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR012B, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASURECRATE01, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL032C, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL032A, using default
+material "tile/tilefloor007a" not found.
+Material not found!: TILE/TILEFLOOR007A
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034C, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSCLIP, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL034D, using default
+Can't find surfaceprop tile for material TILE/TILEFLOOR012A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSNPCCLIP, using default
+Can't find surfaceprop tile for material TILE/TILESTAIR002A, using default
+Can't find surfaceprop metal for material METAL/METALWALL074A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01C, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREHALL01, using default
+material "props/plasticexitsign001a" not found.
+Material not found!: PROPS/PLASTICEXITSIGN001A
+material "models/props_wasteland/metalfence004a" not found.
+Material not found!: MODELS/PROPS_WASTELAND/METALFENCE004A
+material "tools/toolscontrolclip" not found.
+Material not found!: TOOLS/TOOLSCONTROLCLIP
+Can't find surfaceprop metal for material METAL/METALFLOOR008A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR034A, using default
+material "props/healthcharger001a" not found.
+Material not found!: PROPS/HEALTHCHARGER001A
+Can't find surfaceprop metalvent for material PROPS/METALDUCT003A, using default
+material "lights/fluorescentwarm001a" not found.
+Material not found!: LIGHTS/FLUORESCENTWARM001A
+Can't find surfaceprop concrete for material DEV/DEV_MEASURESWITCH01, using default
+Can't find surfaceprop metal for material DEV/DEV_MEASURESTAIRS01A, using default
+Can't find surfaceprop metal for material DEV/DEV_MEASURERAILS01, using default
+material "props/metalbox001c" not found.
+Material not found!: PROPS/METALBOX001C
+material "props/hevcharger001a" not found.
+Material not found!: PROPS/HEVCHARGER001A
+Can't find surfaceprop metal for material DEV/DEV_MEASURERAILS02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 446 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_depot01rt" not found.
+Can't load skybox file skybox/sky_depot01 to build the default cubemap!
+Can't load skybox file skybox/sky_depot01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.vmf
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01A, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01B, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREGENERIC01, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASURECRATE01, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREWALL01C, using default
+Can't find surfaceprop concrete for material DEV/DEV_MEASUREHALL01, using default
+material "black" not found.
+Material not found!: BLACK
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_depot01rt" not found.
+Can't load skybox file skybox/sky_depot01 to build the default cubemap!
+Can't load skybox file skybox/sky_depot01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files (x86)\steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\mysterycombatman3point5\mapsrc\pre_laundry.bsp

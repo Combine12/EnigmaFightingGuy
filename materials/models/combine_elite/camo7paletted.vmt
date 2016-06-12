@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/combine_elite/camo7small"
+	"$envmap" "models/combine_elite/camo7"
+	"$envmapfresnel"	2.0
+}
