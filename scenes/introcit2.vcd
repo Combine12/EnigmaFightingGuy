@@ -1,0 +1,35 @@
+// Choreo version 1
+actor "introCit"
+{
+  channel "Anim"
+  {
+    event lookat "lookAtPlayer"
+    {
+      time 0.006666 2.493333
+      param "!player"
+    }
+  }
+  channel "Wav"
+  {
+    event speak "introCit.theyrewaiting"
+    {
+      time 0.213333 -1.000000
+      param "introCit.theyrewaiting"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

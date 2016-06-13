@@ -115,14 +115,14 @@ Scheme
 		{
 			"1"	[$X360]
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias" "1"
 			}
 			"1"	[$WIN32]
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"700"
 				"antialias" "1"
@@ -130,7 +130,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias" "1"
@@ -138,7 +138,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
@@ -146,7 +146,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"900"
 				"antialias" "1"
@@ -154,7 +154,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"900"
 				"antialias" "1"
@@ -166,7 +166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -174,7 +174,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -182,7 +182,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -191,7 +191,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -200,7 +200,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -219,7 +219,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -227,7 +227,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -235,7 +235,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -244,7 +244,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -253,7 +253,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -262,7 +262,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -279,7 +279,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"64"
 				"tall_hidef"	"58"
 				"weight"	"0"
@@ -292,7 +292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"64"
 				"tall_hidef"	"58"
 				"weight"	"0"
@@ -307,7 +307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"32"
 				"weight"	"0"
 				"antialias" "1"
@@ -319,7 +319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"40" [!$OSX]
 				"tall"		"41" [$OSX]
 				"weight"	"0"
@@ -355,7 +355,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft"
+				"name"		"HalfLife2"
 				"tall"		"32"	[$WIN32]
 				"tall"		"38"	[$X360]
 				"weight"	"0"
@@ -368,7 +368,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"50"
 				"weight"	"0"
 				"antialias" "1"
@@ -380,7 +380,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft"
+				"name"		"HalfLife2"
 				"tall"		"32"	[$WIN32]
 				"tall"		"38"	[$X360]
 				"weight"	"0"
@@ -395,8 +395,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft" [!$OSX]
-				"name"		"minceraft" [$OSX]
+				"name"		"HalfLife2" [!$OSX]
+				"name"		"Helvetica Bold" [$OSX]
 				"tall"		"16"	[$WIN32]
 				"tall"		"22"	[$X360]
 				"weight"	"1000"
@@ -409,7 +409,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -427,7 +427,7 @@ Scheme
 			}
 			"1"	[$WIN32]
 			{
-				"name"		"minceraft.ttf" [!$OSX]
+				"name"		"Verdana" [!$OSX]
 				"name"		"Helvetica Bold" [$OSX]
 				"tall"		"14"
 				"weight"	"1000"
@@ -439,7 +439,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"minceraft.ttf" [!$OSX]
+				"name"		"Verdana" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"tall"		"11"
 				"weight"	"0"
@@ -448,7 +448,7 @@ Scheme
 			}
 			"1"	[$X360]
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias" "1"
@@ -459,7 +459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"700"
 				"antialias" "1"
@@ -467,7 +467,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"700"
 				"antialias" "1"
@@ -475,7 +475,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"900"
 				"antialias" "1"
@@ -483,7 +483,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"900"
 				"antialias" "1"
@@ -491,7 +491,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"17"
 				"weight"	"1000"
 				"antialias" "1"
@@ -542,7 +542,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma" [!$OSX]
-				"name"		"minceraft.ttf" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
 				"weight"	"500"
@@ -553,7 +553,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma" [!$OSX]
-				"name"		"minceraft.ttf Italic" [$OSX]
+				"name"		"Verdana Italic" [$OSX]
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
 				"weight"	"500"
@@ -565,7 +565,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma" [!$OSX]
-				"name"		"minceraft.ttf Bold" [$OSX]
+				"name"		"Verdana Bold" [$OSX]
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
 				"weight"	"900"
@@ -576,7 +576,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma" [!$OSX]
-				"name"		"minceraft.ttf Bold Italic" [$OSX]
+				"name"		"Verdana Bold Italic" [$OSX]
 				"tall"		"26" [!$OSX]
 				"tall"		"24" [$OSX]
 				"weight"	"900"
@@ -588,7 +588,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma" [!$OSX]
-				"name"		"minceraft.ttf" [$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"16" [!$OSX]
 				"tall"		"14" [$OSX]
  				"tall_hidef"	"24"
@@ -632,7 +632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "minceraft"
+				"name"  "5pc"
 				"tall"			"32"
 				"tall_hidef"	"46"
 				"weight" "0"
@@ -645,7 +645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"128"
 				"weight"	"0"
 				"antialias" "1"
@@ -668,7 +668,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"HalfLife2"
 				"tall"		"48"
 				"weight"	"0"
 				"antialias" "1"
@@ -680,7 +680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf" [!$OSX]
+				"name"		"Verdana" [!$OSX]
 				"name"		"Courier Bold" [$OSX]
 				"tall"		"9"
 				"weight"	"900"
@@ -726,7 +726,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -734,7 +734,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"900"
@@ -743,7 +743,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -752,7 +752,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -761,7 +761,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -770,7 +770,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"minceraft.ttf"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -792,9 +792,8 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"1"		"resource/minceraft.ttf"
+		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
-		"3"		"resource/minceraft.TTF"
 	}
 
 }

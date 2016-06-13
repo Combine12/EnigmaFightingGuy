@@ -1,8 +1,8 @@
 "GameInfo"
 {
-	game		"Enigma Fighting Guy 4"
-	title 		"Enigma Fighting Guy 4"
-   	title2		"The Refightening!!!!"
+	game		"Enigma Fighting Man"
+	title 		"Enigma Fighting Man"
+    	title2		" "
 	type		singleplayer_only
 
 	FileSystem
@@ -18,6 +18,9 @@
 			// |all_source_engine_paths| magic help here too.	
 	 
 			// Base Half-Life 2 Content: ep2, episodic, hl2
+			game					|all_source_engine_paths|ep2/ep2_pak.vpk
+			game					|all_source_engine_paths|ep2/ep2_pak_dir.vpk
+			game					|all_source_engine_paths|episodic/ep1_pak.vpk
 			game_lv					|all_source_engine_paths|hl2/hl2_lv.vpk
 			game					|all_source_engine_paths|hl2/hl2_english.vpk
 			game					|all_source_engine_paths|hl2/hl2_pak.vpk
@@ -28,8 +31,9 @@
 			platform				|all_source_engine_paths|platform/platform_misc.vpk
 	 
 			// Find loose files that are not in the vpk's
+			game					|all_source_engine_paths|episodic
+			game					|all_source_engine_paths|ep2
 			game					|all_source_engine_paths|hl2
 			platform				|all_source_engine_paths|platform
-		}
 	}
 }

@@ -1,0 +1,17 @@
+EFG uses a lot of music from outside sources, this is a list of chapters\maps and the music used in them, with the artist.
+
+
+Main Menu (background01):
+	Masakazu Sugimori - Ghost Trick OST - SUSPICION
+
+
+
+"War of the Cut Content" (efm_intro):
+	--Yodel song source goes here--
+	Masakazu Sugimori - Ghost Trick OST - Elegy for the 
+
+
+
+True Boss ( ):
+	Masakazu Sugimori - Ghost Trick OST - The Last Desperate Struggle
+	

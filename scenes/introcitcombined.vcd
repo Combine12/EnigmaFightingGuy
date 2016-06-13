@@ -1,0 +1,104 @@
+// Choreo version 1
+actor "introCit"
+{
+  channel "Anim"
+  {
+    event gesture "G_medurgent_mid"
+    {
+      time 0.833333 2.873016
+      param "G_medurgent_mid"
+      absolutetags playback_time
+      {
+        "apex" 0.149533
+        "accent" 0.249222
+        "loop" 0.398755
+        "end" 0.531673
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.150000
+        "accent" 0.250000
+        "loop" 0.400000
+        "end" 0.533333
+      }
+      sequenceduration 2.033333
+    }
+    event moveto "movetodoor"
+    {
+      time 3.926667 11.861410
+      param "!target1"
+      param2 "Walk"
+    }
+  }
+  channel "Anim2"
+  {
+    event lookat "lookatply"
+    {
+      time 0.006667 3.740000
+      param "!player"
+    }
+    event face "faceply"
+    {
+      time 11.928467 14.204516
+      param "!player"
+    }
+    event lookat "lookatply"
+    {
+      time 11.915133 14.204514
+      param "!player"
+    }
+    event gesture "g_salute"
+    {
+      time 11.886243 14.189889
+      param "g_salute"
+      absolutetags playback_time
+      {
+        "apex" 0.293107
+        "accent" 0.721994
+        "loop" 0.754705
+        "end" 0.841299
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.256410
+        "accent" 0.641026
+        "loop" 0.666667
+        "end" 0.833333
+      }
+      sequenceduration 2.633333
+    }
+  }
+  channel "Vo"
+  {
+    event speak "introCit.comequick"
+    {
+      time 0.153333 3.729206
+      param "introCit.comequick"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "introCit.theyrewaiting"
+    {
+      time 11.908958 13.296350
+      param "introCit.theyrewaiting"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  faceposermodel "models\humans\group03\male_07.mdl"
+}
+
+mapname "C:\Program Files (x86)\Steam\SteamApps\sourcemods\badmod\maps\efm_intro.bsp"
+scalesettings
+{
+  "CChoreoView" "108"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

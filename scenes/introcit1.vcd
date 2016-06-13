@@ -1,0 +1,61 @@
+// Choreo version 1
+actor "introCit"
+{
+  channel "Anim"
+  {
+    event face "lookAtPlayer"
+    {
+      time 0.029762 3.589286
+      param "!player"
+    }
+  }
+  channel "Wav"
+  {
+    event speak "introCit.comequick"
+    {
+      time 0.005952 3.581825
+      param "introCit.comequick"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "Anim2"
+  {
+    event gesture "G_medurgent_mid"
+    {
+      time 0.589286 2.152381
+      param "G_medurgent_mid"
+      absolutetags playback_time
+      {
+        "apex" 0.195126
+        "accent" 0.325209
+        "loop" 0.520335
+        "end" 0.693780
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.150000
+        "accent" 0.250000
+        "loop" 0.400000
+        "end" 0.533333
+      }
+      sequenceduration 2.033333
+    }
+  }
+  channel "Anim3"
+  {
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "116"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

@@ -1,0 +1,523 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\badmod\mapsrc\quarry_town03.vmf
+Can't find surfaceprop metal for material METAL/METALWALL021B, using default
+material "stone/dirtroad001a" not found.
+Material not found!: STONE/DIRTROAD001A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop concrete for material STONE/STONEWALL004A, using default
+material "brick/brickwall042a" not found.
+Material not found!: BRICK/BRICKWALL042A
+material "brick/brickwall042b" not found.
+Material not found!: BRICK/BRICKWALL042B
+material "brick/brickwall042g" not found.
+Material not found!: BRICK/BRICKWALL042G
+Can't find surfaceprop metal for material METAL/METALDOOR063A, using default
+Can't find surfaceprop wood for material WOOD/WOODSHINGLES002A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL009A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL049E, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL049D, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL007A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL048A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL014L, using default
+material "brick/brickwall036a" not found.
+Material not found!: BRICK/BRICKWALL036A
+Can't find surfaceprop brick for material BRICK/BRICKWALL049B, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL063A, using default
+material "brick/brickwall042c" not found.
+Material not found!: BRICK/BRICKWALL042C
+Can't find surfaceprop brick for material BRICK/BRICKWALL048H, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL003A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL048G, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL048C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL002C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL062A, using default
+Can't find surfaceprop dirt for material NATURE/BLENDROCKDIRT006A, using default
+Can't find surfaceprop wood for material WOOD/WOODWALL027B, using default
+Can't find surfaceprop wood for material WOOD/WOODWALL028A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop metal for material METAL/METALWALL018B, using default
+Can't find surfaceprop metal for material METAL/METALWALL018A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR014A, using default
+material "brick/brickwall042e" not found.
+Material not found!: BRICK/BRICKWALL042E
+Can't find surfaceprop brick for material BRICK/BRICKFLOOR001A, using default
+material "brick/brickwall042f" not found.
+Material not found!: BRICK/BRICKWALL042F
+material "wood/woodfloor003a" not found.
+Material not found!: WOOD/WOODFLOOR003A
+material "metal/metalwall053a" not found.
+Material not found!: METAL/METALWALL053A
+Can't find surfaceprop metal for material METAL/METALWALL017A, using default
+Can't find surfaceprop dirt for material NATURE/BLENDDIRTGRASS001A, using default
+Can't find surfaceprop dirt for material NATURE/BLENDDIRTGRASS005A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS002A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL049C, using default
+material "brick/brickwall033a" not found.
+Material not found!: BRICK/BRICKWALL033A
+material "concrete/concretewall011b" not found.
+Material not found!: CONCRETE/CONCRETEWALL011B
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop concrete for material STONE/STONEWALL006B, using default
+material "plaster/plasterwall001a" not found.
+Material not found!: PLASTER/PLASTERWALL001A
+Can't find surfaceprop wood for material WOOD/WOODWALL027C, using default
+Can't find surfaceprop metal for material METAL/METALWALL021C, using default
+material "wood/woodshingles001a" not found.
+Material not found!: WOOD/WOODSHINGLES001A
+Can't find surfaceprop metal for material METAL/METALBAR001A, using default
+material "props/metalwire001a" not found.
+Material not found!: PROPS/METALWIRE001A
+Can't find surfaceprop concrete for material STONE/STONEWALL025C, using default
+material "wood/wooddoor006a" not found.
+Material not found!: WOOD/WOODDOOR006A
+material "wood/wooddoor035a" not found.
+Material not found!: WOOD/WOODDOOR035A
+material "plaster/plasterwall008d" not found.
+Material not found!: PLASTER/PLASTERWALL008D
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE005A, using default
+material "props/wooddrift003a" not found.
+Material not found!: PROPS/WOODDRIFT003A
+material "metal/metalfence002a" not found.
+Material not found!: METAL/METALFENCE002A
+material "plaster/plasterwall001c" not found.
+Material not found!: PLASTER/PLASTERWALL001C
+Can't find surfaceprop brick for material BRICK/BRICKWALL040B, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL045D, using default
+material "brick/brickwall040a" not found.
+Material not found!: BRICK/BRICKWALL040A
+Can't find surfaceprop metal for material METAL/METALWALL014A, using default
+Can't find surfaceprop metal for material METAL/METALWALL018C, using default
+material "brick/brickwall040f" not found.
+Material not found!: BRICK/BRICKWALL040F
+Can't find surfaceprop brick for material BRICK/BRICKWALL040C, using default
+material "metal/metalwall018d" not found.
+Material not found!: METAL/METALWALL018D
+material "stone/stonewall025e" not found.
+Material not found!: STONE/STONEWALL025E
+Can't find surfaceprop metal for material METAL/METALTRUSS017A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE003D, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE003A, using default
+material "wood/wooddoor036a" not found.
+Material not found!: WOOD/WOODDOOR036A
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW009A, using default
+Can't find surfaceprop metal for material METAL/METALWALL001C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL020A, using default
+Can't find surfaceprop metal for material METAL/METALWALL001B, using default
+Can't find surfaceprop metal for material METAL/METALWALL001A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW005A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR018A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR035A, using default
+Can't find surfaceprop metal for material METAL/METALVENT005A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW005B, using default
+material "props/plasticwall003a" not found.
+Material not found!: PROPS/PLASTICWALL003A
+Can't find surfaceprop metal for material METAL/METALFLOOR002A, using default
+material "props/metalpipe002a" not found.
+Material not found!: PROPS/METALPIPE002A
+Can't find surfaceprop concrete for material STONE/STONEWALL025A, using default
+material "stone/stonewall025b" not found.
+Material not found!: STONE/STONEWALL025B
+material "stone/stonewall025d" not found.
+Material not found!: STONE/STONEWALL025D
+material "brick/brickwall040d" not found.
+Material not found!: BRICK/BRICKWALL040D
+material "brick/brickwall040e" not found.
+Material not found!: BRICK/BRICKWALL040E
+Can't find surfaceprop metalgrate for material METAL/METALGRATE013B, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003B, using default
+material "vehicle/metaltruck001a" not found.
+Material not found!: VEHICLE/METALTRUCK001A
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL012A, using default
+material "metal/metalwall010b" not found.
+Material not found!: METAL/METALWALL010B
+Can't find surfaceprop wood for material WOOD/WOODFLOOR001A, using default
+material "props/metalgear001a" not found.
+Material not found!: PROPS/METALGEAR001A
+material "wood/woodwall025a" not found.
+Material not found!: WOOD/WOODWALL025A
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE004B, using default
+Can't find surfaceprop wood_lowdensity for material PROPS/WOODSPOOL001A, using default
+Can't find surfaceprop rubber for material PROPS/RUBBERCONVEYERBELT001A, using default
+material "props/wooddrift004a" not found.
+Material not found!: PROPS/WOODDRIFT004A
+material "props/wooddrift002a" not found.
+Material not found!: PROPS/WOODDRIFT002A
+material "stone/stonewall015a" not found.
+Material not found!: STONE/STONEWALL015A
+Can't find surfaceprop metal for material METAL/METALTRUSS003A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+Patching WVT material: maps/quarry_town03/nature/blendrockdirt006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity sky_camera (5632.00 5632.00 4128.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 7680.0 1464.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 7680.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 2048.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 6656.0 1464.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 6656.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 5120.0 2048.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5632.0 1464.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5632.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 914 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_wasteland03rt" not found.
+Can't load skybox file skybox/sky_wasteland03 to build the default cubemap!
+Can't load skybox file skybox/sky_wasteland03 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file C:\Program Files (x86)\Steam\SteamApps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Source SDK Base 2013 Multiplayer\customConfig\materials
+Loading C:\Program Files (x86)\Steam\SteamApps\sourcemods\badmod\mapsrc\quarry_town03.vmf
+Can't find surfaceprop metal for material METAL/METALWALL021B, using default
+material "stone/dirtroad001a" not found.
+Material not found!: STONE/DIRTROAD001A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop concrete for material STONE/STONEWALL004A, using default
+material "brick/brickwall042a" not found.
+Material not found!: BRICK/BRICKWALL042A
+material "brick/brickwall042b" not found.
+Material not found!: BRICK/BRICKWALL042B
+material "brick/brickwall042g" not found.
+Material not found!: BRICK/BRICKWALL042G
+Can't find surfaceprop metal for material METAL/METALDOOR063A, using default
+Can't find surfaceprop wood for material WOOD/WOODSHINGLES002A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL009A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL049E, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL049D, using default
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL007A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL048A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL014L, using default
+material "brick/brickwall036a" not found.
+Material not found!: BRICK/BRICKWALL036A
+Can't find surfaceprop brick for material BRICK/BRICKWALL049B, using default
+Can't find surfaceprop metal for material METAL/CITADEL_METALWALL063A, using default
+material "brick/brickwall042c" not found.
+Material not found!: BRICK/BRICKWALL042C
+Can't find surfaceprop brick for material BRICK/BRICKWALL048H, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL003A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL048G, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL048C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL002C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL062A, using default
+Can't find surfaceprop dirt for material NATURE/BLENDROCKDIRT006A, using default
+Can't find surfaceprop wood for material WOOD/WOODWALL027B, using default
+Can't find surfaceprop wood for material WOOD/WOODWALL028A, using default
+Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
+Can't find surfaceprop metal for material METAL/METALWALL018B, using default
+Can't find surfaceprop metal for material METAL/METALWALL018A, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEFLOOR014A, using default
+material "brick/brickwall042e" not found.
+Material not found!: BRICK/BRICKWALL042E
+Can't find surfaceprop brick for material BRICK/BRICKFLOOR001A, using default
+material "brick/brickwall042f" not found.
+Material not found!: BRICK/BRICKWALL042F
+material "wood/woodfloor003a" not found.
+Material not found!: WOOD/WOODFLOOR003A
+material "metal/metalwall053a" not found.
+Material not found!: METAL/METALWALL053A
+Can't find surfaceprop metal for material METAL/METALWALL017A, using default
+Can't find surfaceprop dirt for material NATURE/BLENDDIRTGRASS001A, using default
+Can't find surfaceprop dirt for material NATURE/BLENDDIRTGRASS005A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS002A, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL049C, using default
+material "brick/brickwall033a" not found.
+Material not found!: BRICK/BRICKWALL033A
+material "concrete/concretewall011b" not found.
+Material not found!: CONCRETE/CONCRETEWALL011B
+Can't find surfaceprop metal for material METAL/METALDOOR032C, using default
+Can't find surfaceprop concrete for material STONE/STONEWALL006B, using default
+material "plaster/plasterwall001a" not found.
+Material not found!: PLASTER/PLASTERWALL001A
+Can't find surfaceprop wood for material WOOD/WOODWALL027C, using default
+Can't find surfaceprop metal for material METAL/METALWALL021C, using default
+material "wood/woodshingles001a" not found.
+Material not found!: WOOD/WOODSHINGLES001A
+Can't find surfaceprop metal for material METAL/METALBAR001A, using default
+material "props/metalwire001a" not found.
+Material not found!: PROPS/METALWIRE001A
+Can't find surfaceprop concrete for material STONE/STONEWALL025C, using default
+material "wood/wooddoor006a" not found.
+Material not found!: WOOD/WOODDOOR006A
+material "wood/wooddoor035a" not found.
+Material not found!: WOOD/WOODDOOR035A
+material "plaster/plasterwall008d" not found.
+Material not found!: PLASTER/PLASTERWALL008D
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE005A, using default
+material "props/wooddrift003a" not found.
+Material not found!: PROPS/WOODDRIFT003A
+material "metal/metalfence002a" not found.
+Material not found!: METAL/METALFENCE002A
+material "plaster/plasterwall001c" not found.
+Material not found!: PLASTER/PLASTERWALL001C
+Can't find surfaceprop brick for material BRICK/BRICKWALL040B, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL045D, using default
+material "brick/brickwall040a" not found.
+Material not found!: BRICK/BRICKWALL040A
+Can't find surfaceprop metal for material METAL/METALWALL014A, using default
+Can't find surfaceprop metal for material METAL/METALWALL018C, using default
+material "brick/brickwall040f" not found.
+Material not found!: BRICK/BRICKWALL040F
+Can't find surfaceprop brick for material BRICK/BRICKWALL040C, using default
+material "metal/metalwall018d" not found.
+Material not found!: METAL/METALWALL018D
+material "stone/stonewall025e" not found.
+Material not found!: STONE/STONEWALL025E
+Can't find surfaceprop metal for material METAL/METALTRUSS017A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS011A, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE003D, using default
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE003A, using default
+material "wood/wooddoor036a" not found.
+Material not found!: WOOD/WOODDOOR036A
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW009A, using default
+Can't find surfaceprop metal for material METAL/METALWALL001C, using default
+Can't find surfaceprop concrete for material CONCRETE/CONCRETEWALL020A, using default
+Can't find surfaceprop metal for material METAL/METALWALL001B, using default
+Can't find surfaceprop metal for material METAL/METALWALL001A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW005A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR018A, using default
+Can't find surfaceprop metal for material METAL/METALDOOR035A, using default
+Can't find surfaceprop metal for material METAL/METALVENT005A, using default
+Can't find surfaceprop glass for material GLASS/GLASSWINDOW005B, using default
+material "props/plasticwall003a" not found.
+Material not found!: PROPS/PLASTICWALL003A
+Can't find surfaceprop metal for material METAL/METALFLOOR002A, using default
+material "props/metalpipe002a" not found.
+Material not found!: PROPS/METALPIPE002A
+Can't find surfaceprop concrete for material STONE/STONEWALL025A, using default
+material "stone/stonewall025b" not found.
+Material not found!: STONE/STONEWALL025B
+material "stone/stonewall025d" not found.
+Material not found!: STONE/STONEWALL025D
+material "brick/brickwall040d" not found.
+Material not found!: BRICK/BRICKWALL040D
+material "brick/brickwall040e" not found.
+Material not found!: BRICK/BRICKWALL040E
+Can't find surfaceprop metalgrate for material METAL/METALGRATE013B, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003A, using default
+Can't find surfaceprop metal for material METAL/METALTRUSS012A, using default
+Can't find surfaceprop metalgrate for material METAL/METALRAIL003B, using default
+material "vehicle/metaltruck001a" not found.
+Material not found!: VEHICLE/METALTRUCK001A
+Can't find surfaceprop plaster for material PLASTER/PLASTERWALL012A, using default
+material "metal/metalwall010b" not found.
+Material not found!: METAL/METALWALL010B
+Can't find surfaceprop wood for material WOOD/WOODFLOOR001A, using default
+material "props/metalgear001a" not found.
+Material not found!: PROPS/METALGEAR001A
+material "wood/woodwall025a" not found.
+Material not found!: WOOD/WOODWALL025A
+Can't find surfaceprop wood_panel for material PROPS/WOODCRATE004B, using default
+Can't find surfaceprop wood_lowdensity for material PROPS/WOODSPOOL001A, using default
+Can't find surfaceprop rubber for material PROPS/RUBBERCONVEYERBELT001A, using default
+material "props/wooddrift004a" not found.
+Material not found!: PROPS/WOODDRIFT004A
+material "props/wooddrift002a" not found.
+Material not found!: PROPS/WOODDRIFT002A
+material "stone/stonewall015a" not found.
+Material not found!: STONE/STONEWALL015A
+Can't find surfaceprop metal for material METAL/METALTRUSS003A, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\customconfig\gameinfo.txt
+Patching WVT material: maps/quarry_town03/nature/blendrockdirt006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity sky_camera (5632.00 5632.00 4128.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 7680.0 1464.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 7680.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 2048.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 6656.0 1464.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 6656.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 5120.0 2048.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5632.0 1464.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5632.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 914 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+material "skybox/sky_wasteland03rt" not found.
+Can't load skybox file skybox/sky_wasteland03 to build the default cubemap!
+Can't load skybox file skybox/sky_wasteland03 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file C:\Program Files (x86)\Steam\SteamApps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\badmod\mapsrc\quarry_town03.bsp
