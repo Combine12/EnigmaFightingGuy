@@ -19,17 +19,14 @@
 	 
 			// Base Half-Life 2 Content: ep2, episodic, hl2
 			game					|all_source_engine_paths|ep2/ep2_pak.vpk
-			game					|all_source_engine_paths|ep2/ep2_pak_dir.vpk
+			game					|all_source_engine_paths|episodic/ep1_sound_vo_english.vpk
 			game					|all_source_engine_paths|episodic/ep1_pak.vpk
-			game_lv					|all_source_engine_paths|hl2/hl2_lv.vpk
-			game					|all_source_engine_paths|hl2/hl2_english.vpk
+			game					|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
 			game					|all_source_engine_paths|hl2/hl2_pak.vpk
 			game					|all_source_engine_paths|hl2/hl2_textures.vpk
-			game					|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
 			game					|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			game					|all_source_engine_paths|hl2/hl2_misc.vpk
 			platform				|all_source_engine_paths|platform/platform_misc.vpk
-	 
 			// Find loose files that are not in the vpk's
 			game					|all_source_engine_paths|episodic
 			game					|all_source_engine_paths|ep2
