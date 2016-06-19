@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "world/decals/haveyouseenthisman"
+	"$translucent" 1
+}
