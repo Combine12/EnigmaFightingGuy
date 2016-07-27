@@ -65,13 +65,13 @@
 
 
 
-"introCit.comequick"
+"gaster.leave"
 {
-	"channel"	"CHAN_VOICE"
+	"channel"	"CHAN_ITEM"
 	"volume"	"1"
 	"soundlevel"	"SNDLVL_NORM"
 	"pitch"	"100"
-	"wave"	"vo/introcit/introcit_comequick.wav"
+	"wave"	"npc/heGo.wav"
 
 }
 
@@ -85,7 +85,15 @@
 
 }
 
+"introCit.comequick"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"	"100"
+	"wave"	"vo/introcit/introcit_comequick.wav"
 
+}
 
 
 
